@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://blue-elk-470481.hostingersite.com/sitemap.xml
